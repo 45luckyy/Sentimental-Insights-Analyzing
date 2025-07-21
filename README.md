@@ -56,7 +56,7 @@ Follow these steps to set up and run the project on your local machine.
 
 ### 2. Clone the Repository
 ```bash
-git clone [(https://github.com/45luckyy/Sentimental-Insights-Analyzing)](https://github.com/45luckyy/Sentimental-Insights-Analyzing)
+git clone [(https://github.com/45luckyy/Sentimental-Insights-Analyzing)]
 ```
 
 ### 3. Install Dependencies
