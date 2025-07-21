@@ -2,8 +2,7 @@
 
 This project provides a real-time sentiment analysis tool for YouTube live stream chats. Using a deep learning model, it fetches chat messages as they happen and classifies them as **Positive**, **Neutral**, or **Negative**. The application is built with Streamlit, providing a simple and interactive web interface.
 
-![Demo Screenshot](https://placehold.co/800x450/2d3748/ffffff?text=App+Screenshot+Here)
-*(Replace the placeholder above with a screenshot of your running application)*
+![Demo Screenshot](Sentimantal Insights interface.png)
 
 ## Features
 - **Real-Time Analysis**: Fetches and analyzes YouTube live chat messages in near real-time.
