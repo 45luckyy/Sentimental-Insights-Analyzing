@@ -3,7 +3,7 @@ from youtube_chat_analyzer import YouTubeChatAnalyzer
 import pickle
 
 # --- PASTE YOUR YOUTUBE API KEY HERE ---
-YOUTUBE_API_KEY = "AIzaSyCWBviJX89_7F94foFbJtrVDGS7kijaKEM"
+YOUTUBE_API_KEY = "YOUR_API_KEY_GOES_HERE"
 # ------------------------------------
 
 st.set_page_config(layout="wide")
