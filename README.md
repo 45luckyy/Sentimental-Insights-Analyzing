@@ -2,7 +2,7 @@
 
 This project provides a real-time sentiment analysis tool for YouTube live stream chats. Using a deep learning model, it fetches chat messages as they happen and classifies them as **Positive**, **Neutral**, or **Negative**. The application is built with Streamlit, providing a simple and interactive web interface.
 
-![Demo Screenshot](Sentimantal Insights interface.png)
+![Demo Screenshot](https://github.com/45luckyy/Sentimental-Insights-Analyzing/blob/main/Sentimental%20Insights%20Interface.png)
 
 ## Features
 - **Real-Time Analysis**: Fetches and analyzes YouTube live chat messages in near real-time.
@@ -56,10 +56,8 @@ Follow these steps to set up and run the project on your local machine.
 
 ### 2. Clone the Repository
 ```bash
-git clone [https://github.com/your-username/youtube-sentiment-analyzer.git](https://github.com/your-username/youtube-sentiment-analyzer.git)
-cd youtube-sentiment-analyzer
+git clone [(https://github.com/45luckyy/Sentimental-Insights-Analyzing)](https://github.com/45luckyy/Sentimental-Insights-Analyzing)
 ```
-*(Replace `your-username` with your actual GitHub username)*
 
 ### 3. Install Dependencies
 Install all the required Python packages using the `requirements.txt` file.
