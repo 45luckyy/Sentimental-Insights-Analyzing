@@ -117,4 +117,4 @@ If you wish to retrain the model on different data or with different parameters:
 This will generate new `sentiment_model.h5` and `tokenizer.pickle` files.
 
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the Apache License 2.0. See the `LICENSE` file for details.
