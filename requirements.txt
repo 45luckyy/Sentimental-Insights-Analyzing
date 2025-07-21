@@ -4,3 +4,12 @@ scikit-learn
 tensorflow
 google-api-python-client
 streamlit
+
+# PROJECT-SPECIFIC DEPENDENCIES
+# -----------------------------
+# This project requires GloVe pre-trained word vectors.
+# Please download the "GloVe 6B" vectors (glove.6B.zip) from the official site:
+# https://nlp.stanford.edu/projects/glove/
+#
+# Unzip the file and place the 'glove.6B.100d.txt' file in the appropriate
+# data directory for this project.
