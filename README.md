@@ -1,4 +1,4 @@
-# YouTube Live Chat Sentiment Analysis
+# Sentimental Insights: Analyzing Conversations With NLP And ML In Python
 
 This project provides a real-time sentiment analysis tool for YouTube live stream chats. Using a deep learning model, it fetches chat messages as they happen and classifies them as **Positive**, **Neutral**, or **Negative**. The application is built with Streamlit, providing a simple and interactive web interface.
 
